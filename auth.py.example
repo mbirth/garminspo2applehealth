@@ -1,0 +1,6 @@
+# Your Garmin Connect credentials
+USERNAME = "changeme@changeme.com"
+PASSWORD = "changeme"
+
+# Number of days to fetch (default: last 3 days)
+DAYS_TO_FETCH = 3
