@@ -25,6 +25,6 @@ Usage
 4. Make a cronjob running `pipenv run ./fetch.py` regularly
 5. Copy the script from the `php` folder to a webserver and edit the file to point to the SQLite
    database file.
-6. Install the [SpO2 Inserter Shortcut](https://www.icloud.com/shortcuts/7f6f94eb536e4fb1857993bfbc181ccb)
+6. Install the [SpO2 Inserter Shortcut](https://www.icloud.com/shortcuts/3339995852af4b44890cecffa290b4d9)
    on your iPhone and point it to the PHP script.
 7. Optional: Create an Automation in Shortcuts to run this automatically.
